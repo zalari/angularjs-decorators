@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-decorators",
+  "version": "0.1.0",
+  "description": "A set of JavaScript decorators for decorating ES classes in AngularJS projects, akin to Angular 2",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"no budget for tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalari/angularjs-decorators.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "typescript",
+    "decorators",
+    "migration"
+  ],
+  "author": "Christian Ulbrich (Zalari UG haftungsbeschraenkt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zalari/angularjs-decorators/issues"
+  },
+  "homepage": "https://github.com/zalari/angularjs-decorators#readme"
+}
