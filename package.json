@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/zalari/angularjs-decorators/issues"
   },
-  "homepage": "https://github.com/zalari/angularjs-decorators#readme"
+  "homepage": "https://github.com/zalari/angularjs-decorators#readme",
+  "typings": "types.d.ts"
 }
