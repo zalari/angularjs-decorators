@@ -1,4 +1,5 @@
 {
+  "name": "angularjs-decorators",
   "globalDependencies": {
     "angular": "registry:dt/angular#1.5.0+20160909133806"
   }
